@@ -10,6 +10,7 @@
 <find_panel_settings/>
 <vnodes>
 <v t="leo.20160303092430.2"><vh>@edit w2-1.py</vh></v>
+<v t="leo.20160303110229.1"><vh>@edit index.html</vh></v>
 </vnodes>
 <tnodes>
 </tnodes>
